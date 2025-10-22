@@ -1,0 +1,33 @@
+react-js-jsx-and-css-mastering-front-end-development-GHONGO-main/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── components/
+│   │   ├── Button.jsx
+│   │   ├── Card.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   │   └── TaskManager.jsx
+│   ├── pages/
+│   │   ├── ApiData.jsx
+│   │   ├── Gallery.jsx
+│   │   └── Home.jsx
+│   ├── hooks/
+│   │   ├── useApi.js
+│   │   └── useLocalStorage.js
+│   ├── context/
+│   │   └── ThemeContext.js
+│   ├── api/
+│   │   └── jsonPlaceholder.js
+│   ├── utils/
+│   │   └── helpers.js
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── index.html
+├── README.md
+└── Week3-Assignment.md
